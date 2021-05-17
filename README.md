@@ -15,7 +15,7 @@ Here is my animation giving a view of both the race track itself and the routes 
 
 Map #2
 
-![Keeneland MapBox](images/Mapbox%20Map.jpg)
+![Keeneland MapBox](images/MapBox%20Map.jpg)
 
 A MapBox containing contuors ranging from 910' to 960'. Not quite as much terrain undulation as the Gorge.
 
