@@ -7,6 +7,8 @@ https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
 ![Keeneland](Keeneland%20%231.jpg)
 
+https://www.visitlex.com/listing/keeneland-racecourse/5905/
+
 ![Keeneland Race Track Sequence](L7race.gif)
 
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
