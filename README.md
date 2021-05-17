@@ -1,6 +1,8 @@
 # KeenelandRaceTrack
 Keeneland Race Course
 
+![Keeneland](Keeneland_Race_Course.jpg)
+
 ![Keeneland Race Track Sequence](L7race.gif)
 
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
