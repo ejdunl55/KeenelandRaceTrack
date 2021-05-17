@@ -49,7 +49,7 @@ My name is Eli Dunlap, I am a junior turning senior at the University of Kentuck
 
 ![](images/Keeneland%20Betting.jpg)
 
-Here is a photo from the 2019 October Meet, the last meet we attended before the pandemic began. I am on the left, on my phone probably betting, my cousin Gabe is in the center, along with his roommate from Bellarmine, Spencer
+Here is a photo from the 2019 October Meet, the last meet we attended before the pandemic began. I am on the left, on my phone probably betting, my cousin Gabe is in the center, along with his roommate from Bellarmine, Tim.
 
 ![](images/Run%20for%20Recovery%20Race.jpg)
 
