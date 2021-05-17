@@ -1,5 +1,5 @@
 # KeenelandRaceTrack
-Keeneland Race Course
+The Keeneland Race Course
 
 ![Keeneland](images/Keeneland_Race_Course.jpg)
 
