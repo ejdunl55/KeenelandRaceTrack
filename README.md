@@ -47,6 +47,12 @@ My name is Eli Dunlap, I am a junior turning senior at the University of Kentuck
 
 # 6. Photos
 
+![](images/Keeneland%20Betting.jpg)
+
+Here is a photo from the 2019 October Meet, the last meet we attended before the pandemic began. I am on the left, on my phone probaly betting, my cousin Gabe is in the center, along with his roommate from Bellarmine, Spencer
+
 ![](images/Run%20for%20Recovery%20Race.jpg)
 
 Me competing in the 2018 Run for Recovery 5k, which has been hosted by Keeneland for over 30 years
+
+# Hope you enjoyed! GO CATS!!! 😼😼😼😼
