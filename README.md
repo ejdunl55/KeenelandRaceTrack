@@ -1,6 +1,10 @@
 # KeenelandRaceTrack
 Keeneland Race Course
 
+![Keeneland](Keeneland_Race_Course.jpg)
+
+https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
+
 # 1. Maps
 
 Map #1
@@ -24,10 +28,6 @@ Here is a slideshow I prepared featuring some interesting experiences I have had
 # 2. Area of Choice
 
 My area of choice is the famous Keeneland Race Track in Lexington, KY, just outside downtown. Opened since 1936, it is one of the most famous race tracks in the country, and a special place in the city to me. Some of these maps will have info on how special it is.
-
-![Keeneland](Keeneland_Race_Course.jpg)
-
-https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
 ![Keeneland](Keeneland%20%231.jpg)
 
