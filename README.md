@@ -27,7 +27,7 @@ Map #3
 
 ![Keeneland Slideshow](images/Cesium%20Map.jpg)
 
-[link to map](https://ejdunl55.github.io/KeenelandRaceTrack/Mapbox/index.html) 
+[link to map](https://ejdunl55.github.io/KeenelandRaceTrack/slideshow/index.html) 
 
 Here is a slideshow I prepared featuring some interesting experiences I have had at Keeneland. Some history I have had at the course, as well as a point cloud of the running course.
 
