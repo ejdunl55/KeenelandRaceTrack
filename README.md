@@ -11,7 +11,7 @@ Map #1
 
 ![Keeneland Race Track Sequence](VIDEO/L7race.gif)
 
-[link to video](https://ejdunl55.github.io/KeenelandRaceTrack/VIDEO/L7race.gif) 
+[link to video](https://github.com/ejdunl55/KeenelandRaceTrack/blob/main/VIDEO/L7race.gif) 
 
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
 
