@@ -19,7 +19,7 @@ Map #2
 
 ![Keeneland MapBox](images/MapBox%20Map.jpg)
 
-[link to map](https://ejdunl55.github.io/KeenelandRaceTrack/main/Map/index.html) 
+[link to map](https://github.com/ejdunl55/KeenelandRaceTrack/blob/main/Map/index.html) 
 
 A MapBox containing contuors ranging from 910' to 960'. Not quite as much terrain undulation as the Gorge. This was a very enjoyable map to create as it helped visualize the elevation of the running courses. The highest point being about 960' is just adjacent to the Versailles Rd was always the end of the 5k course, and it was a brutal climb to complete.
 
