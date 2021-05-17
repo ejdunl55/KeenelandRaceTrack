@@ -9,6 +9,10 @@ https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
 https://www.visitlex.com/listing/keeneland-racecourse/5905/
 
+![](Run%20for%20Recovery%20Race.jpg)
+
+Me competing in the 2018 Run for Recovery 5k, which has been hosted by Keeneland for over 30 years
+
 Map #1
 
 ![Keeneland Race Track Sequence](L7race.gif)
