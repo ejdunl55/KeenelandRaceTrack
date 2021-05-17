@@ -9,7 +9,7 @@ https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
 Map #1
 
-![Keeneland Race Track Sequence](images/L7race.gif)
+![Keeneland Race Track Sequence](VIDEO/L7race.gif)
 
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
 
