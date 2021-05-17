@@ -11,17 +11,23 @@ Map #1
 
 ![Keeneland Race Track Sequence](VIDEO/L7race.gif)
 
+[link to video](https://ejdunl55.github.io/KeenelandRaceTrack/VIDEO/L7race.gif) 
+
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
 
 Map #2
 
 ![Keeneland MapBox](images/MapBox%20Map.jpg)
 
+[link to map](https://ejdunl55.github.io/KeenelandRaceTrack/Mapbox/index.html) 
+
 A MapBox containing contuors ranging from 910' to 960'. Not quite as much terrain undulation as the Gorge. This was a very enjoyable map to create as it helped visualize the elevation of the running courses. The highest point being about 960' is just adjacent to the Versailles Rd was always the end of the 5k course, and it was a brutal climb to complete.
 
 Map #3
 
 ![Keeneland Slideshow](images/Cesium%20Map.jpg)
+
+[link to map](https://ejdunl55.github.io/KeenelandRaceTrack/Mapbox/index.html) 
 
 Here is a slideshow I prepared featuring some interesting experiences I have had at Keeneland. Some history I have had at the course, as well as a point cloud of the running course.
 
