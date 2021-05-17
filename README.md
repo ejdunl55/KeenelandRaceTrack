@@ -43,7 +43,7 @@ Tools used include Esri ArcGIS Pro GIS software, Cesium Ion, MapBox, Shadow Tech
 
 # 5. Class and Author
 
-My name is Eli Dunlap, I am a junior turning senior at the University of Kentucky, majoring in Geography, minoring in Environmental & Sustainability Studies, pursing Meteorology. This final project has been for GEO409 at UK, in the hopes of demonstrating my growth in coding and GIS mapping over this semester. With the amazing assistance of my professor, Boyd Shearer, I have put together these maps of my area of interest.
+My name is Eli Dunlap, I am a junior turning senior at the University of Kentucky, majoring in Geography, minoring in Environmental & Sustainability Studies, pursuing Meteorology. This final project has been for GEO409 at UK, in the hopes of demonstrating my growth in coding and GIS mapping over this semester. With the amazing assistance of my professor, Boyd Shearer, I have put together these maps of my area of interest.
 
 # 6. Photos
 
