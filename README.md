@@ -5,7 +5,7 @@ Keeneland Race Course
 
 https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
-![Keeneland](Keeneland%20#1.jpg)
+![Keeneland](Keeneland%20%231.jpg)
 
 ![Keeneland Race Track Sequence](L7race.gif)
 
