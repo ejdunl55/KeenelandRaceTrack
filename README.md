@@ -1,7 +1,7 @@
 # KeenelandRaceTrack
 Keeneland Race Course
 
-![Keeneland](Keeneland_Race_Course.jpg)
+![Keeneland](images/Keeneland_Race_Course.jpg)
 
 https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
@@ -9,19 +9,19 @@ https://en.wikipedia.org/wiki/Keeneland#/media/File:Keeneland_Race_Course.jpg
 
 Map #1
 
-![Keeneland Race Track Sequence](L7race.gif)
+![Keeneland Race Track Sequence](images/L7race.gif)
 
 Here is my animation giving a view of both the race track itself and the routes that most races I competed in. 
 
 Map #2
 
-![Keeneland MapBox](Mapbox%20Map.jpg)
+![Keeneland MapBox](images/Mapbox%20Map.jpg)
 
 A MapBox containing contuors ranging from 910' to 960'. Not quite as much terrain undulation as the Gorge.
 
 Map #3
 
-![Keeneland Slideshow](Cesium%20Map.jpg)
+![Keeneland Slideshow](images/Cesium%20Map.jpg)
 
 Here is a slideshow I prepared featuring some interesting experiences I have had at Keeneland. Some history I have had at the course, as well as a point cloud of the running course.
 
@@ -29,7 +29,7 @@ Here is a slideshow I prepared featuring some interesting experiences I have had
 
 My area of choice is the famous Keeneland Race Track in Lexington, KY, just outside downtown. Opened since 1936, it is one of the most famous race tracks in the country, and a special place in the city to me. Some of these maps will have info on how special it is.
 
-![Keeneland](Keeneland%20%231.jpg)
+![Keeneland](images/Keeneland%20%231.jpg)
 
 https://www.visitlex.com/listing/keeneland-racecourse/5905/
 
@@ -47,6 +47,6 @@ My name is Eli Dunlap, I am a junior turning senior at the University of Kentuck
 
 # 6. Photos
 
-![](Run%20for%20Recovery%20Race.jpg)
+![](images/Run%20for%20Recovery%20Race.jpg)
 
 Me competing in the 2018 Run for Recovery 5k, which has been hosted by Keeneland for over 30 years
