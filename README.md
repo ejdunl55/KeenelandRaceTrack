@@ -17,8 +17,6 @@ Map #2
 
 ![Keeneland MapBox](images/MapBox%20Map.jpg)
 
-![](Map/MapBox.html)
-
 A MapBox containing contuors ranging from 910' to 960'. Not quite as much terrain undulation as the Gorge.
 
 Map #3
